@@ -76,3 +76,4 @@ Ref: What is pickle:https://docs.python.org/3/library/pickle.html
     Exception handling and pickling are key concepts in Python. Exception handling allows you to catch and handle errors during program execution, improving robustness and user experience. 
     Pickling involves serializing objects into byte streams for storage or transmission. It enables saving and loading data structures and facilitates object transfer between Python programs. Understanding exception handling and pickling enhances error management and data persistence in Python programming.
 
+
