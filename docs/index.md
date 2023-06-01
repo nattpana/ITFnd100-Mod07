@@ -7,10 +7,10 @@ Learning Python on week 07
 ## Topic 1 : Research Exception Handling in Python
 There are at least two distinguishable kinds of errors: syntax errors and exceptions.
 
-### 1)Syntax Errors :
+### 1) Syntax Errors :
 Program displays a little ‘arrow’ pointing at the earliest point in the line where the error was detected. The error is caused by (or at least detected at) the token preceding the arrow.
 
-### 2)Exception Errors:
+### 2) Exception Errors:
 Even if a statement or expression is syntactically correct, it may cause an error when an attempt is made to execute it. Errors detected during execution are called exceptions and are not unconditionally fatal: you will soon learn how to handle them in Python programs. Most exceptions are not handled by programs.
 Python's exception handling allows you to catch and handle errors that occur during the execution of your code. The basic syntax for exception handling is the try-except block.
 These exceptions are predefined in the Python language and are categorized into different types based on their nature and the kind of errors they represent. Here are some common types of exceptions in Python:
